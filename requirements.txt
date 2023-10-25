@@ -2,4 +2,4 @@ numpy
 scipy
 pandas
 flask
-sklearn
+scikit-learn
